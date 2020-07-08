@@ -2,3 +2,6 @@ env-stocks
 env-stocks*
 env-stocks/
 api_keys
+__pycache__/models.cpython-38.pyc
+__pycache__/database.cpython-38.pyc
+__pycache__/main.cpython-38.pyc
